@@ -1,4 +1,4 @@
-# WIP: IOT dashboard
+# WIP: IOT dashboard v2
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 ## Introduction
